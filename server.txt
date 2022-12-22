@@ -1,0 +1,3 @@
+ip adityasingh10102006.aternos.me
+port 26345
+name aditya 
